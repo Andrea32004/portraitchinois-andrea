@@ -1,0 +1,52 @@
+[
+    {
+        "analogie" : " une couleur",
+        "valeursAnalogies" : " le marbre blanc...",
+        "explication" : " parce que la beauté de ce mélange me fait voyager. Le blanc est une couleur unie qui représente la légèreté, la simplicité, l'innocence ou encore la netteté. C'est une page blanche sur laquelle on écrit une histoire. Le marbre est lié au luxe et au pouvoir. Il faut prendre soin  des choses luxueuses pour les conserver en état. Le blanc et le marbre se complètent. L'un est simple et se fond dans la masse, l'autre est résistant en plus de proposer différentes versions de lui-même (référence aux différents marbres qui existent). Le blanc et le marbre se complètent : l'innocence et le pouvoir.",
+        "illustration" : "./images/marbre.jpg"
+    },
+
+    {
+        "analogie" : " un objet",
+        "valeursAnalogies" : " un vase",
+        "explication" : "Il peut avoir plusieurs formes, avec un design, des modelages, des tailles, des écritures, des thèmes différents ; adaptés aux fleurs qui y sont déposées. Par ce texte poétique, je veux dire que je suis quelqu'un très ouvert d'esprit, qui sais m'adapter en fonction des situations et des personnes que j'ai devant moi. Un vase représente le même processus. Il accueil les fleurs comme elles sont : avec leurs épines, leurs défauts, leur beauté...",
+        "illustration" : "./images/vase.jpg"
+    },
+
+    {
+        "analogie" : " un sport",
+        "valeursAnalogies" : " la danse...",
+        "explication" : "parce qu'elle m'accompagne depuis que j'ai fait mes premiers pas sur Terre. Elle me fait voyager à chaque instant que je décide : que je sois debout, assise ou couché, mon imagination me permet de visualiser la danse à chaque moment, lorsque j'en ai envie. Ce sport permet l’expression de soi, la bonne humeur et le renforcement musculaire. Elle améliore la santé physique et mentale, car elle permet d'extérioriser les sentiments.",
+        "illustration" : "./images/danse.jpg" 
+    },
+
+    {
+        "analogie" : " un paysage",
+        "valeursAnalogies" : " un lac...",
+        "explication" : "parce que sa beauté extérieure et intérieure déclenche en moi un sentiment que je ne peux expliquer :  il nous montre ce qu’on lui fait voir en nous reflétant lorsque l'on s'approche de lui, il nous éblouit quand le soleil s’illumine, il récupère les cailloux des ricochées impactant l’eau.",
+        "illustration" : "./images/lac.jpg"
+    },
+
+    {
+        "analogie" : " un animal",
+        "valeursAnalogies" : " un cheval...",
+        "explication" : "parce que c'est un animal qui est très intelligent. L'amour peut être tellement fort entre un cheval et un humain que personne ne pourra les séparer, ni la distance physique, ni la mort. C’est un animal très observateur, qui comprend nos sentiments bien mieux que les humains eux-mêmes, comme une éponge. Il sait analyser ses prédateurs grâce à sa grande ouverture visuelle et à ses sens très développés.",
+        "illustration" : "./images/cheval.jpg"
+    },
+
+    {
+        "analogie" : " un des 4 éléments qui composent le monde",
+        "valeursAnalogies" : " l'eau...",
+        "explication" : "parce que cet élément possède des énergies très similaires aux miennes : il représente les émotions, l'affection, l'imagination et l’intuition. De par sa qualité sensible et pénétrante, la première fonction de l'eau est de sentir. C’est un élément qui est connu pour permettre la tranquillité, la fidélité et la délicatesse. Mais il n’est pas parfait, et a donc besoin de se ressourcer auprès d’activités bienfaisantes et équilibrants pour retrouver son énergie, comme le sport par exemple.",
+        "illustration" : "./images/eau.jpg"
+    },
+
+    {
+        "analogie" : " un etre vivant",
+        "valeursAnalogies" : " un arbre...",
+        "explication" : "parce que c'est un etre-vivant qui m'impressionne : il peut adopter plusieurs formes : grand, petit, fin, encombrant... . Il se fond dans le décor de la nature en jouant de la musique qui nous berce chaque moment. Chaque arbre à ses propres défauts et qualités : l'un peut avoir une grande capacité d’adaptation et d’observation grâce à sa grande taille, tandis qu'un autre peut permettre aux humains de récolter ses fruits lorsqu'il a fini de travailler. Il prend son temps pour se construire et évolue en fonction des saisons.",
+        "illustration" : "./images/arbre.jpg"
+    }
+
+]
+
